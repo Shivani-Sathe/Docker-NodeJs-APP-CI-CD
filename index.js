@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('output with restart');
+  res.send('Docker node js app');
 
 });
 
