@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Docker node js app deployed successfully');
+  res.send('Docker node js app deployed successfully done!');
 
 });
 
